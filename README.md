@@ -1,7 +1,8 @@
 # KuroNeko
 A java-based web HTML parser and downloader
 
-From the README file: 
+From the README file:
+
 KuroNeko: a download manager for KissAnime
 Written by Ethan Vovan
 
@@ -16,7 +17,6 @@ HOW TO USE:
 
 THINGS TO KNOW:
 - KuroNeko only works with KissAnime!
-- Be aware that KuroNeko doesn't know exactly what episodes to download, so it will download EVERYTHING from each anime homepage (even the _Ending and the _Opening files!)
 - KuroNeko will download the latest episode first, and work its way down the list.
 - KuroNeko will also only download the highest quality episodes of each anime. While we all enjoy the high quality, the episodes will also take up a lot of space on your computer.
 
